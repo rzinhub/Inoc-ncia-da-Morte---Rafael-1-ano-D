@@ -1,5 +1,9 @@
 .body{
     background-color: rgb(106, 101, 101);
+    color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
 }
 .img-01{
     width: 95%;
